@@ -1,0 +1,13 @@
+Test Case 1: Sequential identical characters
+aaaaa
+bbbbb
+ccccc
+
+Test Case 2: Sequential characters in context
+Start iiiii End
+Begin ooooo Finish
+Alpha eeeee Omega
+
+Test Case 3: Mixed sequential patterns
+xxxxx words yyyyy more zzzzz
+ppppp text qqqqq data rrrrr
