@@ -1,0 +1,11 @@
+[
+  {
+    "context": "Workspace",
+    "bindings": {
+      "cmd-shift-r": ["task::Spawn", { "task_name": "Run Test Program" }],
+      "cmd-' b": ["task::Spawn", { "task_name": "Build Test Program" }],
+      "cmd-' r": ["task::Spawn", { "task_name": "Run Test Program" }],
+      "cmd-' c": ["task::Spawn", { "task_name": "Clean Build" }]
+    }
+  }
+]
