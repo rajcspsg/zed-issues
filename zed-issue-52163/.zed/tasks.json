@@ -1,0 +1,11 @@
+[
+  {
+    "label": "python debug",
+    "program": "${file}",
+    "type": "python",
+    "request": "launch",
+    "adapter": "Debugpy",
+    "console": "integratedTerminal",
+    "justMyCode": false
+  }
+]
